@@ -1,4 +1,5 @@
-🚀 # Handwriting Digit Recognition with Keras 🚀
+# Handwriting Digit Recognition
+🚀  Handwriting Digit Recognition with Keras 🚀
 
 I’m excited to share my latest project, in which I developed a handwriting digit recognition system using the Keras library. This project leverages the power of Convolutional Neural Networks (CNNs) to classify handwritten digits accurately from the MNIST dataset.
 
